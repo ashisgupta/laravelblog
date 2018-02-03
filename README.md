@@ -11,5 +11,9 @@ Register form will create only Users
 I have created a middle ware to check Users loggin in User, admin and superadmin.(is_permission in user table stores user type)
 
 Added php git api using composer
+Added github credentials and token
+URL : url/github  will give all repository
+
+
 
 
